@@ -33,7 +33,7 @@ public class test {
 //        System.out.println(username);
 //        System.out.println(password);
 
-        return str;
+        return "test";
     }
     @RequestMapping("/img1")
     public byte[] test1(String path) throws IOException {
